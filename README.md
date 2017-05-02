@@ -14,3 +14,4 @@ a,b ∈ ℤ
 - Leer b
 - Escribir a+b
 
+![diagrama](diagrama.png)
